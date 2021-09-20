@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-GB" original="Please update this value">
+    <body>
+      <group id="body">
+        <trans-unit id="Report 3124337057 - NamedType 1784859884" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Confirmation</source>
+          <target>Order Confirmation</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order UH new - NamedType text50000</note>
+        </trans-unit>
+        <trans-unit id="Report 3124337057 - NamedType 1147163267" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Your purchase order of %1</source>
+          <target>Your purchase order of %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order UH new - NamedType text50001</note>
+        </trans-unit>
+        <trans-unit id="Report 3124337057 - NamedType 3060253118" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Your purchase order no.: %1</source>
+          <target>Your purchase order no.: %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order UH new - NamedType text50002</note>
+        </trans-unit>
+        <trans-unit id="Report 3124337057 - NamedType 2891344095" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone: %1</source>
+          <target>Tel: %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order UH new - NamedType text50005</note>
+        </trans-unit>
+        <trans-unit id="Report 3124337057 - NamedType 509466650" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fax: %1</source>
+          <target>Fax: %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order UH new - NamedType text50006</note>
+        </trans-unit>
+        <trans-unit id="Report 3124337057 - NamedType 4166737329" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Email: %1</source>
+          <target>Email: %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order UH new - NamedType text50007</note>
+        </trans-unit>
+        <trans-unit id="Report 3124337057 - NamedType 1953768907" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Price (%1)</source>
+          <target>Total Price (%1)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order UH new - NamedType text50009</note>
+        </trans-unit>
+        <trans-unit id="Report 3124337057 - NamedType 1508327611" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subtotal</source>
+          <target>Subtotal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order UH new - NamedType text50010</note>
+        </trans-unit>
+        <trans-unit id="Report 3124337057 - NamedType 2146024228" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Your VAT-No.</source>
+          <target>Your VAT-No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order UH new - NamedType text50011</note>
+        </trans-unit>
+        <trans-unit id="Report 3124337057 - NamedType 2422556501" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Your contact partner is %1</source>
+          <target>Your contact partner is %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order UH new - NamedType text50003</note>
+        </trans-unit>
+        <trans-unit id="Report 3124337057 - NamedType 3529040712" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The order confirmation has been written by %1</source>
+          <target>The order confirmation has been written by %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order UH new - NamedType text50004</note>
+        </trans-unit>
+        <trans-unit id="Report 3124337057 - NamedType 3890205056" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Proforma-Invoice</source>
+          <target>Proforma-Invoice</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order UH new - NamedType text50015</note>
+        </trans-unit>
+        <trans-unit id="Report 3124337057 - NamedType 1248591342" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Continuation on page %1</source>
+          <target>Continuation on page %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order UH new - NamedType text50020</note>
+        </trans-unit>
+        <trans-unit id="Report 3124337057 - NamedType 963372627" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Supplies and Services of our house exclusively take place on the basis of our well-known terms of sales and delivery.</source>
+          <target>Supplies and Services of our house exclusively take place on the basis of our well-known terms of sales and delivery.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order UH new - NamedType text50100</note>
+        </trans-unit>
+        <trans-unit id="Report 3124337057 - NamedType 319121014" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Your Item No.: %1</source>
+          <target>Your Item No.: %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order UH new - NamedType text500200</note>
+        </trans-unit>
+        <trans-unit id="Report 3124337057 - NamedType 1601069244" size-unit="char" translate="yes" xml:space="preserve">
+          <source>With Kind Regards\ \%1</source>
+          <target>With Kind Regards\ \%1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order UH new - NamedType text50101</note>
+        </trans-unit>
+        <trans-unit id="Report 3124337057 - NamedType 1210925875" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Our Account No.: %1</source>
+          <target>Our Account No.: %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order UH new - NamedType text500111</note>
+        </trans-unit>
+        <trans-unit id="Report 3124337057 - NamedType 3124015726" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Country of origin: %1</source>
+          <target>Country of origin: %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order UH new - NamedType text500112</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

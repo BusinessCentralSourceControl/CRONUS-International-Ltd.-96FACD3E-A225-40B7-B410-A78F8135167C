@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fr-CA" original="Please update this value">
+    <body>
+      <group id="body">
+        <trans-unit id="Report 3124337057 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Order</source>
+          <target>Document de vente</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order UH new - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3124337057 - ReportDataItem 1192395785 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Order</source>
+          <target>Document de vente</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order UH new - ReportDataItem Sales Header - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 3124337057 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>COPY</source>
+          <target>COPIER</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order UH new - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Report 3124337057 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transferred from page %1</source>
+          <target>Transféré de la page %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order UH new - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 3124337057 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transferred to page %1</source>
+          <target>Transféré à la page %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order UH new - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 3124337057 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Tax Breakdown:</source>
+          <target>Ventilation taxe de vente :</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order UH new - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Report 3124337057 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Other Taxes</source>
+          <target>Autres taxes</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order UH new - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Report 3124337057 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Sales Tax:</source>
+          <target>Taxes de vente totales:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order UH new - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Report 3124337057 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tax Breakdown:</source>
+          <target>Ventilation fiscale :</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order UH new - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Report 3124337057 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Tax:</source>
+          <target>Taxe totale :</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order UH new - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Report 3124337057 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tax:</source>
+          <target>Taxe :</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order UH new - NamedType Text008</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
